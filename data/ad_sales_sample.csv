@@ -1,0 +1,116 @@
+date,campaign_name,channel,country,industry,impressions,clicks,cost,conversions,revenue,customer_id,funnel_stage,objective
+2024-01-01,Q1 Brand Awareness - Meta,Meta,Canada,Technology,125000,3750,2500,112,4480,CUST001,Awareness,Awareness
+2024-01-01,Google Search - Enterprise,Google,Canada,Financial Services,85000,4250,3825,255,7650,CUST002,Consideration,Conversion
+2024-01-01,Pinterest Lifestyle Campaign,Pinterest,Canada,Retail,95000,2850,1425,95,1900,CUST003,Awareness,Awareness
+2024-01-01,LinkedIn B2B - SaaS,LinkedIn,Canada,Technology,45000,1800,3600,180,9000,CUST004,Consideration,Consideration
+2024-01-02,Q1 Brand Awareness - Meta,Meta,Canada,Technology,128000,3840,2560,118,4720,CUST001,Awareness,Awareness
+2024-01-02,Google Search - Enterprise,Google,Canada,Financial Services,87000,4350,3915,262,7860,CUST002,Consideration,Conversion
+2024-01-02,Pinterest Lifestyle Campaign,Pinterest,Canada,Retail,97000,2910,1455,98,1960,CUST003,Awareness,Awareness
+2024-01-02,LinkedIn B2B - SaaS,LinkedIn,Canada,Technology,46000,1840,3680,185,9250,CUST004,Consideration,Consideration
+2024-01-03,Q1 Brand Awareness - Meta,Meta,Canada,Technology,130000,3900,2600,120,4800,CUST001,Awareness,Awareness
+2024-01-03,Google Search - Enterprise,Google,Canada,Financial Services,89000,4450,3975,270,8100,CUST002,Consideration,Conversion
+2024-01-03,Pinterest Lifestyle Campaign,Pinterest,Canada,Retail,99000,2970,1485,100,2000,CUST003,Awareness,Awareness
+2024-01-03,LinkedIn B2B - SaaS,LinkedIn,Canada,Technology,47000,1880,3760,190,9500,CUST004,Consideration,Consideration
+2024-01-04,Q1 Brand Awareness - Meta,Meta,US,Technology,145000,4350,3000,135,5400,CUST005,Awareness,Awareness
+2024-01-04,Google Search - Enterprise,Google,US,Financial Services,95000,4750,4275,295,8850,CUST006,Consideration,Conversion
+2024-01-04,Pinterest Lifestyle Campaign,Pinterest,US,Retail,110000,3300,1650,115,2300,CUST007,Awareness,Awareness
+2024-01-04,LinkedIn B2B - SaaS,LinkedIn,US,Technology,52000,2080,4160,208,10400,CUST008,Consideration,Consideration
+2024-01-05,Q1 Brand Awareness - Meta,Meta,Canada,Technology,132000,3960,2640,122,4880,CUST001,Awareness,Awareness
+2024-01-05,Google Search - Enterprise,Google,Canada,Financial Services,91000,4550,4050,278,8340,CUST002,Consideration,Conversion
+2024-01-05,Pinterest Lifestyle Campaign,Pinterest,Canada,Retail,101000,3030,1515,102,2040,CUST003,Awareness,Awareness
+2024-01-05,LinkedIn B2B - SaaS,LinkedIn,Canada,Technology,48000,1920,3840,192,9600,CUST004,Consideration,Consideration
+2024-01-06,Q1 Brand Awareness - Meta,Meta,US,Technology,148000,4440,3120,142,5680,CUST005,Awareness,Awareness
+2024-01-06,Google Search - Enterprise,Google,US,Financial Services,97000,4850,4350,305,9150,CUST006,Consideration,Conversion
+2024-01-06,Pinterest Lifestyle Campaign,Pinterest,US,Retail,112000,3360,1680,118,2360,CUST007,Awareness,Awareness
+2024-01-06,LinkedIn B2B - SaaS,LinkedIn,US,Technology,53000,2120,4240,212,10600,CUST008,Consideration,Consideration
+2024-01-07,Q1 Brand Awareness - Meta,Meta,Canada,Technology,135000,4050,2700,125,5000,CUST001,Awareness,Awareness
+2024-01-07,Google Search - Enterprise,Google,Canada,Financial Services,93000,4650,4125,285,8550,CUST002,Consideration,Conversion
+2024-01-07,Pinterest Lifestyle Campaign,Pinterest,Canada,Retail,103000,3090,1545,105,2100,CUST003,Awareness,Awareness
+2024-01-07,LinkedIn B2B - SaaS,LinkedIn,Canada,Technology,49000,1960,3920,196,9800,CUST004,Consideration,Consideration
+2024-01-08,Q1 Brand Awareness - Meta,Meta,US,Technology,150000,4500,3200,148,5920,CUST005,Awareness,Awareness
+2024-01-08,Google Search - Enterprise,Google,US,Financial Services,99000,4950,4425,315,9450,CUST006,Consideration,Conversion
+2024-01-08,Pinterest Lifestyle Campaign,Pinterest,US,Retail,114000,3420,1710,121,2420,CUST007,Awareness,Awareness
+2024-01-08,LinkedIn B2B - SaaS,LinkedIn,US,Technology,54000,2160,4320,216,10800,CUST008,Consideration,Consideration
+2024-01-09,Q1 Brand Awareness - Meta,Meta,Canada,Technology,138000,4140,2760,128,5120,CUST001,Awareness,Awareness
+2024-01-09,Google Search - Enterprise,Google,Canada,Financial Services,95000,4750,4200,292,8760,CUST002,Consideration,Conversion
+2024-01-09,Pinterest Lifestyle Campaign,Pinterest,Canada,Retail,105000,3150,1575,107,2140,CUST003,Awareness,Awareness
+2024-01-09,LinkedIn B2B - SaaS,LinkedIn,Canada,Technology,50000,2000,4000,200,10000,CUST004,Consideration,Consideration
+2024-01-10,Q1 Brand Awareness - Meta,Meta,US,Technology,152000,4560,3280,152,6080,CUST005,Awareness,Awareness
+2024-01-10,Google Search - Enterprise,Google,US,Financial Services,101000,5050,4500,325,9750,CUST006,Consideration,Conversion
+2024-01-10,Pinterest Lifestyle Campaign,Pinterest,US,Retail,116000,3480,1740,124,2480,CUST007,Awareness,Awareness
+2024-01-10,LinkedIn B2B - SaaS,LinkedIn,US,Technology,55000,2200,4400,220,11000,CUST008,Consideration,Consideration
+2024-02-01,Q1 Brand Awareness - Meta,Meta,Canada,Technology,140000,4200,2800,130,5200,CUST001,Awareness,Awareness
+2024-02-01,Google Search - Enterprise,Google,Canada,Financial Services,97000,4850,4275,300,9000,CUST002,Consideration,Conversion
+2024-02-01,Pinterest Lifestyle Campaign,Pinterest,Canada,Retail,107000,3210,1605,109,2180,CUST003,Awareness,Awareness
+2024-02-01,LinkedIn B2B - SaaS,LinkedIn,Canada,Technology,51000,2040,4080,204,10200,CUST004,Consideration,Consideration
+2024-02-01,TikTok Viral Campaign,TikTok,Canada,Technology,200000,8000,3000,240,7200,CUST009,Awareness,Awareness
+2024-02-02,Q1 Brand Awareness - Meta,Meta,US,Technology,155000,4650,3450,165,6600,CUST005,Awareness,Awareness
+2024-02-02,Google Search - Enterprise,Google,US,Financial Services,103000,5150,4575,335,10050,CUST006,Consideration,Conversion
+2024-02-02,Pinterest Lifestyle Campaign,Pinterest,US,Retail,118000,3540,1770,127,2540,CUST007,Awareness,Awareness
+2024-02-02,LinkedIn B2B - SaaS,LinkedIn,US,Technology,56000,2240,4480,224,11200,CUST008,Consideration,Consideration
+2024-02-02,TikTok Viral Campaign,TikTok,US,Technology,225000,9000,3375,270,8100,CUST010,Awareness,Awareness
+2024-02-03,Q1 Brand Awareness - Meta,Meta,Canada,Technology,142000,4260,2840,132,5280,CUST001,Awareness,Awareness
+2024-02-03,Google Search - Enterprise,Google,Canada,Financial Services,99000,4950,4350,308,9240,CUST002,Consideration,Conversion
+2024-02-03,Pinterest Lifestyle Campaign,Pinterest,Canada,Retail,109000,3270,1635,111,2220,CUST003,Awareness,Awareness
+2024-02-03,LinkedIn B2B - SaaS,LinkedIn,Canada,Technology,52000,2080,4160,208,10400,CUST004,Consideration,Consideration
+2024-02-03,TikTok Viral Campaign,TikTok,Canada,Technology,202000,8080,3030,242,7260,CUST009,Awareness,Awareness
+2024-02-04,Q1 Brand Awareness - Meta,Meta,US,Technology,157000,4710,3510,170,6800,CUST005,Awareness,Awareness
+2024-02-04,Google Search - Enterprise,Google,US,Financial Services,105000,5250,4650,345,10350,CUST006,Consideration,Conversion
+2024-02-04,Pinterest Lifestyle Campaign,Pinterest,US,Retail,120000,3600,1800,130,2600,CUST007,Awareness,Awareness
+2024-02-04,LinkedIn B2B - SaaS,LinkedIn,US,Technology,57000,2280,4560,228,11400,CUST008,Consideration,Consideration
+2024-02-04,TikTok Viral Campaign,TikTok,US,Technology,228000,9120,3420,276,8280,CUST010,Awareness,Awareness
+2024-02-05,Q1 Brand Awareness - Meta,Meta,Canada,Technology,144000,4320,2880,135,5400,CUST001,Awareness,Awareness
+2024-02-05,Google Search - Enterprise,Google,Canada,Financial Services,101000,5050,4425,315,9450,CUST002,Consideration,Conversion
+2024-02-05,Pinterest Lifestyle Campaign,Pinterest,Canada,Retail,111000,3330,1665,113,2260,CUST003,Awareness,Awareness
+2024-02-05,LinkedIn B2B - SaaS,LinkedIn,Canada,Technology,53000,2120,4240,212,10600,CUST004,Consideration,Consideration
+2024-02-05,TikTok Viral Campaign,TikTok,Canada,Technology,204000,8160,3060,244,7320,CUST009,Awareness,Awareness
+2024-02-06,Q1 Brand Awareness - Meta,Meta,US,Technology,159000,4770,3570,175,7000,CUST005,Awareness,Awareness
+2024-02-06,Google Search - Enterprise,Google,US,Financial Services,107000,5350,4725,355,10650,CUST006,Consideration,Conversion
+2024-02-06,Pinterest Lifestyle Campaign,Pinterest,US,Retail,122000,3660,1830,133,2660,CUST007,Awareness,Awareness
+2024-02-06,LinkedIn B2B - SaaS,LinkedIn,US,Technology,58000,2320,4640,232,11600,CUST008,Consideration,Consideration
+2024-02-06,TikTok Viral Campaign,TikTok,US,Technology,231000,9240,3465,282,8460,CUST010,Awareness,Awareness
+2024-02-07,Q1 Brand Awareness - Meta,Meta,Canada,Technology,146000,4380,2920,138,5520,CUST001,Awareness,Awareness
+2024-02-07,Google Search - Enterprise,Google,Canada,Financial Services,103000,5150,4500,322,9660,CUST002,Consideration,Conversion
+2024-02-07,Pinterest Lifestyle Campaign,Pinterest,Canada,Retail,113000,3390,1695,115,2300,CUST003,Awareness,Awareness
+2024-02-07,LinkedIn B2B - SaaS,LinkedIn,Canada,Technology,54000,2160,4320,216,10800,CUST004,Consideration,Consideration
+2024-02-07,TikTok Viral Campaign,TikTok,Canada,Technology,206000,8240,3090,246,7380,CUST009,Awareness,Awareness
+2024-02-08,Q1 Brand Awareness - Meta,Meta,US,Technology,161000,4830,3630,180,7200,CUST005,Awareness,Awareness
+2024-02-08,Google Search - Enterprise,Google,US,Financial Services,109000,5450,4800,365,10950,CUST006,Consideration,Conversion
+2024-02-08,Pinterest Lifestyle Campaign,Pinterest,US,Retail,124000,3720,1860,136,2720,CUST007,Awareness,Awareness
+2024-02-08,LinkedIn B2B - SaaS,LinkedIn,US,Technology,59000,2360,4720,236,11800,CUST008,Consideration,Consideration
+2024-02-08,TikTok Viral Campaign,TikTok,US,Technology,234000,9360,3510,288,8640,CUST010,Awareness,Awareness
+2024-02-09,Q1 Brand Awareness - Meta,Meta,Canada,Technology,148000,4440,2960,140,5600,CUST001,Awareness,Awareness
+2024-02-09,Google Search - Enterprise,Google,Canada,Financial Services,105000,5250,4575,330,9900,CUST002,Consideration,Conversion
+2024-02-09,Pinterest Lifestyle Campaign,Pinterest,Canada,Retail,115000,3450,1725,117,2340,CUST003,Awareness,Awareness
+2024-02-09,LinkedIn B2B - SaaS,LinkedIn,Canada,Technology,55000,2200,4400,220,11000,CUST004,Consideration,Consideration
+2024-02-09,TikTok Viral Campaign,TikTok,Canada,Technology,208000,8320,3120,248,7440,CUST009,Awareness,Awareness
+2024-02-10,Q1 Brand Awareness - Meta,Meta,US,Technology,163000,4890,3690,185,7400,CUST005,Awareness,Awareness
+2024-02-10,Google Search - Enterprise,Google,US,Financial Services,111000,5550,4875,375,11250,CUST006,Consideration,Conversion
+2024-02-10,Pinterest Lifestyle Campaign,Pinterest,US,Retail,126000,3780,1890,139,2780,CUST007,Awareness,Awareness
+2024-02-10,LinkedIn B2B - SaaS,LinkedIn,US,Technology,60000,2400,4800,240,12000,CUST008,Consideration,Consideration
+2024-02-10,TikTok Viral Campaign,TikTok,US,Technology,237000,9480,3555,294,8820,CUST010,Awareness,Awareness
+2024-03-01,Q1 Brand Awareness - Meta,Meta,Canada,Technology,150000,4500,3000,145,5800,CUST001,Awareness,Awareness
+2024-03-01,Google Search - Enterprise,Google,Canada,Financial Services,107000,5350,4725,340,10200,CUST002,Consideration,Conversion
+2024-03-01,Pinterest Lifestyle Campaign,Pinterest,Canada,Retail,117000,3510,1755,119,2380,CUST003,Awareness,Awareness
+2024-03-01,LinkedIn B2B - SaaS,LinkedIn,Canada,Technology,56000,2240,4480,224,11200,CUST004,Consideration,Consideration
+2024-03-01,TikTok Viral Campaign,TikTok,Canada,Technology,210000,8400,3150,250,7500,CUST009,Awareness,Awareness
+2024-03-02,Q1 Brand Awareness - Meta,Meta,US,Technology,165000,4950,3675,190,7600,CUST005,Awareness,Awareness
+2024-03-02,Google Search - Enterprise,Google,US,Financial Services,113000,5650,5025,385,11550,CUST006,Consideration,Conversion
+2024-03-02,Pinterest Lifestyle Campaign,Pinterest,US,Retail,128000,3840,1920,142,2840,CUST007,Awareness,Awareness
+2024-03-02,LinkedIn B2B - SaaS,LinkedIn,US,Technology,61000,2440,4880,244,12200,CUST008,Consideration,Consideration
+2024-03-02,TikTok Viral Campaign,TikTok,US,Technology,240000,9600,3600,300,9000,CUST010,Awareness,Awareness
+2024-03-03,Q1 Brand Awareness - Meta,Meta,Canada,Technology,152000,4560,3040,147,5880,CUST001,Awareness,Awareness
+2024-03-03,Google Search - Enterprise,Google,Canada,Financial Services,109000,5450,4800,348,10440,CUST002,Consideration,Conversion
+2024-03-03,Pinterest Lifestyle Campaign,Pinterest,Canada,Retail,119000,3570,1785,121,2420,CUST003,Awareness,Awareness
+2024-03-03,LinkedIn B2B - SaaS,LinkedIn,Canada,Technology,57000,2280,4560,228,11400,CUST004,Consideration,Consideration
+2024-03-03,TikTok Viral Campaign,TikTok,Canada,Technology,212000,8480,3180,252,7560,CUST009,Awareness,Awareness
+2024-03-04,Q1 Brand Awareness - Meta,Meta,US,Technology,167000,5010,3735,195,7800,CUST005,Awareness,Awareness
+2024-03-04,Google Search - Enterprise,Google,US,Financial Services,115000,5750,5175,395,11850,CUST006,Consideration,Conversion
+2024-03-04,Pinterest Lifestyle Campaign,Pinterest,US,Retail,130000,3900,1950,145,2900,CUST007,Awareness,Awareness
+2024-03-04,LinkedIn B2B - SaaS,LinkedIn,US,Technology,62000,2480,4960,248,12400,CUST008,Consideration,Consideration
+2024-03-04,TikTok Viral Campaign,TikTok,US,Technology,243000,9720,3645,306,9180,CUST010,Awareness,Awareness
+2024-03-05,Q1 Brand Awareness - Meta,Meta,Canada,Technology,154000,4620,3080,150,6000,CUST001,Awareness,Awareness
+2024-03-05,Google Search - Enterprise,Google,Canada,Financial Services,111000,5550,4875,356,10680,CUST002,Consideration,Conversion
+2024-03-05,Pinterest Lifestyle Campaign,Pinterest,Canada,Retail,121000,3630,1815,123,2460,CUST003,Awareness,Awareness
+2024-03-05,LinkedIn B2B - SaaS,LinkedIn,Canada,Technology,58000,2320,4640,232,11600,CUST004,Consideration,Consideration
+2024-03-05,TikTok Viral Campaign,TikTok,Canada,Technology,214000,8560,3210,254,7620,CUST009,Awareness,Awareness
